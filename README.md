@@ -504,6 +504,9 @@ typography/formatting.
 The slicers are designed as selectable tiles, allowing users to
 interactively filter the report.
 
+## 📊 Power BI Dashboard
+![Power BI Customer Shopping Behaviour Dashboard](PowerBI_Dashboard.png)
+
 ------------------------------------------------------------------------
 
 # 🔄 Complete Project Workflow
